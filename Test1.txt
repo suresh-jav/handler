@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello Test Branch...
-=======
-Hello...
->>>>>>> 560c28d (Add one file)
+>><< HEAD
+Hello From Sub-main
