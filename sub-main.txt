@@ -1,2 +1,1 @@
-This is a line-1 sub-main.
-Modified.
+This is a line-1 sub-main
